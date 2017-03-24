@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_942327b5265c1a8203570c2dbc750361f37f82eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\f6f01a62e8ad1f205037eb3bdc9d1fc9454a33cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f6a80bb87ed49e820dc4b0b4d6963f7aa969479\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\14b8b477cac88b7e72ce114f1445ae92bc76e99c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_200ea5ce61dee1c955213c8767814379777dd7dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="912fb10c22bf1200b22b89f600d5d77794a8cd9b">
+        <dex dex="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_29fac4522a5984ca9fc4733954d29c7befd82b21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\9de7c6dbc67fe519ebd0ee15f12032e5f8acb438\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f1a55b1c770a24e3a9292bd58c39800008ca612\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\3b5fc54a5caf3ed27d61c29fad495d0aecc1671a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8888225e09957a09d986174cd3f86001dde1022\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\119e26aa1aaa7ef8812060704c2cc25c78343484\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a00b345c8cc6056bb6b95e57ffbfa1c05ffd11f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\6dc254f4c7ead8f9a5f925440b3d7813bf50d100\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4a14fd3d9f54095e7b0eda2e044670ee8cc43e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\570c5e6bf0484701414b22e245188f3c4af0ea00\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86615c58f0ad5ea09bb279d12eb5ee5c452ae776\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_74d1e47802333f8820325e39f1927f20d8cba9d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\f62b10e4cc9c7cbe63d52a7a5b691b526d550816\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a822b3a2fe4ffc70ea55e4e2f44b924e5944e13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\35b9cab8a61321e33c8d5e846fcaf419a1a6b5e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Admin\AndroidStudio Projects\quiz_app1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76d466018832747a79a966b7373eb2adbf1fa4ae\classes.dex" />
+    </item>
+
+</items>
